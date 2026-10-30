@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" role="img" aria-label="Asiman Imanzade. Data science and machine learning.">
+<style>
+.e,.n{animation:p 6s ease-in-out infinite}
+.d1{animation-delay:.7s}.d2{animation-delay:1.4s}.d3{animation-delay:2.1s}.d4{animation-delay:2.8s}
+@keyframes p{0%,40%,100%{opacity:.28}15%{opacity:1}}
+.n{opacity:.75}
+@media (prefers-reduced-motion:reduce){.e,.n{animation:none;opacity:.7}}
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+</style>
+<rect width="1280" height="300" rx="14" fill="#070b18"/>
+<path class="e d0" d="M740 93L852 36M740 93L852 74M740 93L852 112M740 93L852 150M740 93L852 188M740 93L852 226M740 93L852 264M740 131L852 36M740 131L852 74M740 131L852 112M740 131L852 150M740 131L852 188M740 131L852 226M740 131L852 264M740 169L852 36M740 169L852 74M740 169L852 112M740 169L852 150M740 169L852 188M740 169L852 226M740 169L852 264M740 207L852 36M740 207L852 74M740 207L852 112M740 207L852 150M740 207L852 188M740 207L852 226M740 207L852 264" fill="none" stroke="#21918c" stroke-width="1"/>
+<path class="e d1" d="M852 36L964 36M852 36L964 74M852 36L964 112M852 36L964 150M852 36L964 188M852 36L964 226M852 36L964 264M852 74L964 36M852 74L964 74M852 74L964 112M852 74L964 150M852 74L964 188M852 74L964 226M852 74L964 264M852 112L964 36M852 112L964 74M852 112L964 112M852 112L964 150M852 112L964 188M852 112L964 226M852 112L964 264M852 150L964 36M852 150L964 74M852 150L964 112M852 150L964 150M852 150L964 188M852 150L964 226M852 150L964 264M852 188L964 36M852 188L964 74M852 188L964 112M852 188L964 150M852 188L964 188M852 188L964 226M852 188L964 264M852 226L964 36M852 226L964 74M852 226L964 112M852 226L964 150M852 226L964 188M852 226L964 226M852 226L964 264M852 264L964 36M852 264L964 74M852 264L964 112M852 264L964 150M852 264L964 188M852 264L964 226M852 264L964 264" fill="none" stroke="#3fbc73" stroke-width="1"/>
+<path class="e d2" d="M964 36L1076 74M964 36L1076 112M964 36L1076 150M964 36L1076 188M964 36L1076 226M964 74L1076 74M964 74L1076 112M964 74L1076 150M964 74L1076 188M964 74L1076 226M964 112L1076 74M964 112L1076 112M964 112L1076 150M964 112L1076 188M964 112L1076 226M964 150L1076 74M964 150L1076 112M964 150L1076 150M964 150L1076 188M964 150L1076 226M964 188L1076 74M964 188L1076 112M964 188L1076 150M964 188L1076 188M964 188L1076 226M964 226L1076 74M964 226L1076 112M964 226L1076 150M964 226L1076 188M964 226L1076 226M964 264L1076 74M964 264L1076 112M964 264L1076 150M964 264L1076 188M964 264L1076 226" fill="none" stroke="#8bd646" stroke-width="1"/>
+<path class="e d3" d="M1076 74L1188 131M1076 74L1188 169M1076 112L1188 131M1076 112L1188 169M1076 150L1188 131M1076 150L1188 169M1076 188L1188 131M1076 188L1188 169M1076 226L1188 131M1076 226L1188 169" fill="none" stroke="#fde725" stroke-width="1"/>
+<g class="n d0" fill="#3b528b"><circle cx="740" cy="93" r="7"/><circle cx="740" cy="131" r="7"/><circle cx="740" cy="169" r="7"/><circle cx="740" cy="207" r="7"/></g>
+<g class="n d1" fill="#21918c"><circle cx="852" cy="36" r="7"/><circle cx="852" cy="74" r="7"/><circle cx="852" cy="112" r="7"/><circle cx="852" cy="150" r="7"/><circle cx="852" cy="188" r="7"/><circle cx="852" cy="226" r="7"/><circle cx="852" cy="264" r="7"/></g>
+<g class="n d2" fill="#3fbc73"><circle cx="964" cy="36" r="7"/><circle cx="964" cy="74" r="7"/><circle cx="964" cy="112" r="7"/><circle cx="964" cy="150" r="7"/><circle cx="964" cy="188" r="7"/><circle cx="964" cy="226" r="7"/><circle cx="964" cy="264" r="7"/></g>
+<g class="n d3" fill="#8bd646"><circle cx="1076" cy="74" r="7"/><circle cx="1076" cy="112" r="7"/><circle cx="1076" cy="150" r="7"/><circle cx="1076" cy="188" r="7"/><circle cx="1076" cy="226" r="7"/></g>
+<g class="n d4" fill="#fde725"><circle cx="1188" cy="131" r="7"/><circle cx="1188" cy="169" r="7"/></g>
+<text x="64" y="146" font-size="66" font-weight="700" letter-spacing="-1.5" fill="#e8ecf5">Asiman Imanzade</text>
+<text x="66" y="196" font-size="27" font-weight="500" fill="#fde725">Data science and machine learning</text>
+</svg>
