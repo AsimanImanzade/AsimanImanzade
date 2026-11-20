@@ -35,7 +35,7 @@ I study Computer Science at ADA University in Baku. I started in data analytics 
 ## Tools
 
 <p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,sklearn,postgres,c,cpp,java,ts,react,git,github&perline=10" alt="Python, scikit-learn, PostgreSQL, C, C++, Java, TypeScript, React, Git, GitHub"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,sklearn,postgres,c,cpp,java,js,ts,react,threejs,git,github&perline=12" alt="Python, scikit-learn, PostgreSQL, C, C++, Java, JavaScript, TypeScript, React, Three.js, Git, GitHub"></a>
 </p>
 
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-2C728E?style=flat-square) ![LightGBM](https://img.shields.io/badge/LightGBM-21918C?style=flat-square) ![CatBoost](https://img.shields.io/badge/CatBoost-3FBC73?style=flat-square) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-3B528B?style=flat-square) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logoColor=black)
